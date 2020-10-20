@@ -1,2 +1,2 @@
-# Coursera_Capstone
-This repository is the final project of the Data Science professional certificate offered by Coursera and IBM.
+# R.S
+This repository is devoted to some ideas related to the search of better recommendation algorithms based on random matrices.
